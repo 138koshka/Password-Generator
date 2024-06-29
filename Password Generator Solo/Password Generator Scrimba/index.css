@@ -11,14 +11,13 @@ h1 {
 .container {
     margin: 0;
     background-color: #1F2937;
-    background-size: ;
-    height: 100v;
+    height: 100vh;
     padding: 0;
     color: white;
     
 }
 
-#colorword {
+.colorword {
     color: #34D399;
 }
 
@@ -30,13 +29,13 @@ h1 {
    
 }
 
-#border {
+.border {
     border: 1px solid #28384d;
     display: flex;
     margin-top: 15px;
 }
 
-#spaceOne, #spaceTwo {
+.spaceOne, .spaceTwo {
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
